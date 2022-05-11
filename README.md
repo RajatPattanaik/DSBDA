@@ -29,6 +29,8 @@ https://colab.research.google.com/drive/1-GVZvNGiaKCuBi5Hq-G2ZySlBYah9J_K?usp=sh
 
 DSBDA 9
 https://colab.research.google.com/drive/1ieBhV_3w6hLYDp_kAkjSNbntCY1HtS3L?usp=sharing
+Titanic(part1)
+https://colab.research.google.com/drive/1rQFozcGbd0Y5ODUTEyJsFjUIZgaFL9t3?usp=sharing
 
 DSBDA 10
 https://colab.research.google.com/drive/1ieBhV_3w6hLYDp_kAkjSNbntCY1HtS3L?usp=sharing
